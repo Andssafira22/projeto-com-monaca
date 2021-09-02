@@ -1,0 +1,34 @@
+	body{
+   
+  }
+	#tela2{
+	width:100%;
+	background: #436EEE;
+	padding-top: 10%
+}
+	#titulo{
+	margin-left: 20%;
+	color: white;
+}
+	#raptor{
+	width: 250px;
+	height: 150px;
+	margin-left: 17%
+}
+	.historia{
+	color: white;
+	font-size: 14px;
+}
+	.botao{
+	width: 200px;
+	height: 10px;
+	background-color: rgb(10, 226, 10);
+	margin-left: 70%;
+  color:black
+}
+
+
+.foto {
+  width: 100%;
+padding: 10px;
+}
